@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋  -->
-![](ava2.PNG)
+![](ava3.PNG)
 
 👯 I am a Senior Research, Dept. R&D at STS Engineering Inc., Republic of Korea.
 
