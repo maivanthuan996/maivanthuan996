@@ -5,6 +5,6 @@
 
 
 - 🔭 I’m currently working on:
-- Applying Machine Learning and Deep
-  Learning to control ship maneuvering.
+- Machine Learning
+- Deep Learning
 - Numerical Simulation
